@@ -1,0 +1,14 @@
+upstream backend_hosts {
+	server lifesim:8085;
+	server lifesim:8086;
+	server lifesim:8087;
+}
+
+
+server {
+	listen 80 default_server;
+
+	location / {
+		proxy_pass http://backend_hosts/;
+	}
+}
