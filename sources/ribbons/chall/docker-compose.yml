@@ -1,0 +1,18 @@
+version: '2.2'
+services:
+  ribbons:
+    build: .
+    ports:
+      - "4242:4242"
+    restart: on-failure
+    mem_limit: 512m
+    mem_reservation: 128m
+   
+  nginx: 
+    build: ./nginx/
+    container_name: production_nginx
+    volumes:
+      - ./ribbons.conf:/etc/nginx/nginx.conf
+    ports:
+      - 4243:4243
+

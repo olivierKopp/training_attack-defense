@@ -1,0 +1,25 @@
+﻿
+[Start of logging]
+21.11.2019 08:36:11.500 WARN     1 Failed to deserialize. Reason: Attempting to deserialize an empty stream.  
+21.11.2019 08:36:11.523 INFO     1 HttpServer started at 'http://*:8080/'  
+21.11.2019 08:36:11.531 INFO     1 WebSocketServer started at '0.0.0.0:8081'  
+
+[Start of logging]
+21.11.2019 08:38:38.391 INFO     1 Successfully loaded 0 saved holograms!  
+21.11.2019 08:38:38.409 INFO     1 HttpServer started at 'http://*:8080/'  
+21.11.2019 08:38:38.414 INFO     1 WebSocketServer started at '0.0.0.0:8081'  
+
+[Start of logging]
+21.11.2019 08:40:30.991 INFO     1 Successfully loaded 0 saved holograms!  
+21.11.2019 08:40:31.009 INFO     1 HttpServer started at 'http://*:8080/'  
+21.11.2019 08:40:31.020 INFO     1 WebSocketServer started at '0.0.0.0:8081'  
+
+[Start of logging]
+21.11.2019 08:44:16.563 INFO     1 Successfully loaded 0 saved holograms!  
+21.11.2019 08:44:16.580 INFO     1 HttpServer started at 'http://*:8080/'  
+21.11.2019 08:44:16.584 INFO     1 WebSocketServer started at '0.0.0.0:8081'  
+
+[Start of logging]
+21.11.2019 08:46:28.578 INFO     1 Successfully loaded 0 saved holograms!  
+21.11.2019 08:46:28.594 INFO     1 HttpServer started at 'http://*:8080/'  
+21.11.2019 08:46:28.600 INFO     1 WebSocketServer started at '0.0.0.0:8081'  

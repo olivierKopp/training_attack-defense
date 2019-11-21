@@ -1,0 +1,11 @@
+version: '2.2'
+services:
+  thinkerer:
+    build: .
+    ports:
+      - "50051:50051"
+    restart: on-failure
+    working_dir: /thinkerer
+    mem_limit: 512m
+    mem_reservation: 128m
+

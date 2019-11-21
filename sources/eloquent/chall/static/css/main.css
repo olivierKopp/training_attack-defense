@@ -1,0 +1,21 @@
+.tooltip-inner {
+    width: 140px;
+}
+
+.card {
+    margin-top: 15px;
+    height: 220px;
+}
+
+body {
+    padding-top: 70px;
+}
+
+.bottom-btn {
+    position: absolute;
+    bottom: 10px;
+}
+
+.navbar-middle-text {
+    padding-left: 50px;
+}

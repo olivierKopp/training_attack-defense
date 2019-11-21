@@ -1,0 +1,5 @@
+﻿
+[Start of logging]
+11.11.2019 23:57:43.106 WARN     1 DB file doesn't exist!  
+11.11.2019 23:57:43.119 INFO     1 HttpServer started at 'http://*:8080/'  
+11.11.2019 23:57:43.135 INFO     1 WebSocketServer started at '0.0.0.0:8081'  
